@@ -1,0 +1,19 @@
+{
+  "telemetry.telemetryLevel": "off",
+  "notifications.doNotDisturbMode": "on",
+  "workbench.tips.enabled": false,
+  "git.autofetch": false,
+  "search.exclude": {
+    "**/.git": true,
+    "**/.env*": true,
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/secrets*": true
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.env": true,
+    "**/.env.local": true,
+    "**/.env.production": true
+  }
+}

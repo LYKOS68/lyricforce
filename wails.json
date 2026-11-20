@@ -1,0 +1,21 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "LYKOS REIMARCHIV",
+  "outputfilename": "LykosReimarchiv",
+  "build:dir": "packaging",
+  "frontend:dir": "frontend",
+  "frontend:install": "",
+  "frontend:build": "",
+  "assetdir": "frontend/dist",
+  "reloaddirs": "frontend/dist",
+  "wailsjsdir": "./frontend",
+  "author": {
+    "name": "LYKOS"
+  },
+  "info": {
+    "companyName": "LYKOS",
+    "productName": "LYKOS REIMARCHIV",
+    "productVersion": "0.1.0",
+    "comments": "Reimarchiv und Songwriting-Werkbank"
+  }
+}
